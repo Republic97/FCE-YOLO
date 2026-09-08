@@ -14,8 +14,6 @@ This repository provides the source code and configuration files for the propose
 
 The complete project files are provided in `FCE-YOLO.zip`.
 
-Please refer to the README included in the project package for detailed environment, training, validation, and usage instructions.
-
 ## Data
 
 The original image dataset is not publicly redistributed due to copyright and redistribution restrictions.
